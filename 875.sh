@@ -1,11 +1,4 @@
 #!/usr/bin/env bash
-#=============================================================
-# https://github.com/P3TERX/SSH_Key_Installer
-# Description: Install SSH keys via GitHub, URL or local files
-# Version: 2.7
-# Author: P3TERX
-# Blog: https://p3terx.com
-#=============================================================
 
 PUB_KEY="ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA00OceT1qUKCu9CvoUUnCAlV6Jb/U7qJZbE55ipZ0K2YU/LQMVrySrWvgbnPBVbckQUIQJyin8d6NaNqW4lRCDRYpRqWBdjQAh3F0GDk9Hu9cysgt2Zk+k3ZkVB4fY4wZ4v+NFav33CZtMQCd6fp4Yg6OL+Iol6o8muQSYrg43IkB79toslazEwAT1Xlnh5oHEIrLs6NFwUysitx7OLUUXkeMr3PWoq3LoQn+zwXQz0HsPuCurWuOnYok3BtkxZdwlge6lvGNSKll3OukS2p5B5eyOAbDTxWD7l87Mm3GHEWX7D06t8+Q6qduPTHuxv2fFdA/XSsCu9AYjk7fplDIqQ== rsa 2048-122021"
 RED_FONT_PREFIX="\033[31m"
